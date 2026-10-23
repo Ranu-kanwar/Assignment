@@ -1,0 +1,1 @@
+print("Hello everyone and how is life")
